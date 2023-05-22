@@ -1,7 +1,9 @@
 Recomendações para Email HTML:
 
 - Não redimensionar imagens no código
-  - Editar imagens e inserir nas dimensões corretas 
+  - Editar imagens e inserir nas dimensões corretas
+  - Não utilizar dimensões em valores percentuais 
+  - Definir o tamanho exato de TODOS os componentes em px
     
 	Sugestão de dimensões: 
 		banner: 580px x193px, 
@@ -13,7 +15,9 @@ Recomendações para Email HTML:
   X div;
 
 - Utilizar <table> para estruturar e organizar
+  - tr: linha
+  - td: coluna
 
 - Usar o CSS inline
 
-- Utilizar fontes padrões
+- Utilizar fontes padrões do sistema
